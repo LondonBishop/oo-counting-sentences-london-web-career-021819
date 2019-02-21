@@ -21,7 +21,6 @@ class String
           element
         end
       }
-      
       arr.length
   end
   
